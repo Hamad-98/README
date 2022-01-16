@@ -8,7 +8,6 @@
 ```
 
 I'm Hamad - an undergraduate studying biomedical engineering at [uofg](https://www.uoguelph.ca/).
-You can learn more about me on my website [here](https:///).
 
 ## Technologies & Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white&color=404254)
