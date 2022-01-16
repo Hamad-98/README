@@ -19,6 +19,6 @@ I'm Hamad - an undergraduate studying biomedical engineering at [uofg](https://w
 ![WebPack](https://img.shields.io/badge/-Webpack-000?style=flat&logoColor=white&logo=Webpack&color=404254)
 ![NPM](https://img.shields.io/badge/-NPM-000?style=flat&logoColor=orange&logo=npm&color=404254)
 
-### contact 💬
+## Contact 💬
 
 Feel free to reach out on [linkedin](https:///) or directly via [email](mailto:hamad_ahmad64@outlook.com)!
