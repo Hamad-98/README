@@ -28,7 +28,9 @@
 
 <h4>My Top Projects</h4>
 <ul>
-  <li><h6><a href="#">fill</a></h6></li>
+  <li><h6><a href="https://github.com/Hamad-98/ChatApp">Chat App</a></h6></li>
+  <li><h6><a href="https://github.com/Hamad-98/react-shopping-cart">Shopping Cart</a></h6></li>
+  
  </ul>
 
 <h4> 💬 Contact </h4>
