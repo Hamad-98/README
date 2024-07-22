@@ -3,7 +3,7 @@
   Hello! I'm Hamad
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   <br>
-  <img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=480&lines=%F0%9F%92%BBI+Am+Currently+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;'>
+  <img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=480&lines=%F0%9F%92%BBI+Love+Learning+about+web+dev%F0%9F%A4%99%E2%9C%A8;'>
   </br>
   <img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> 
   
@@ -26,12 +26,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<h4>My Top Projects</h4>
-<ul>
-  <li><h6><a href="https://github.com/Hamad-98/ChatApp">Chat App</a></h6></li>
-  <li><h6><a href="https://github.com/Hamad-98/react-shopping-cart">Shopping Cart</a></h6></li>
-  
- </ul>
 
 <h4> 💬 Contact </h4>
 
